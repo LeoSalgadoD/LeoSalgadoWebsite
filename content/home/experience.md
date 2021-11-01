@@ -32,13 +32,10 @@ experience:
     description: |2-
         Responsibilities included:
         
-        * Ecology and Management of Field Crops Insects
-        * Conducted and coordinated 6 field research trials, 2 diet incorporation assays in the laboratory, and 4 greenhouse experiments to evaluate larval establishment, oviposition preference, and insect development with research team
-        * Conducted and coordinated 4 field research trials to evaluate the effect of the volume, timing, and efficacy of insecticide applications.
-        * Participated in research site preparation and maintenance: planting, weeding, pesticide mixing and application, and harvesting.
-        * Present research at scientific and commodity group conferences, publish extension and scientific articles.
-        * Partnered with USDA personnel to conduct trials evaluating insects’ effect on yield reduction, nutrient influence, and varietal resistance.
-        * Supervised five student workers both on campus and at the sugarcane research station.
+        * Conduct field, greenhouse, and laboratory research in integrated pest management, plant-insect interactions, and pesticide efficacy in sugarcane and rice agroecosystems.
+        * Examine potential chemical controls for invasive apple snails in rice and crawfish systems.
+        * Collect biological data: insect counts, insect identification, insect damage, yield, insect mortality, insect egg-laying behaviors, behavioral choice.
+        * Maintaining laboratory insect colonies in the Department of Entomology LSU.
         
   - title: Visiting Scholar
     company: LSU AgCenter
