@@ -36,15 +36,19 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: Visiting Scholar
+    company: LSU AgCenter
+    company_url: 'https://lsuagcenter.com/'
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
+    location: Louisiana
+    date_start: '2018-09-03'
+    date_end: '2018-12-21'
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
 design:
   columns: '2'
 ---
