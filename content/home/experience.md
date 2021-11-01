@@ -39,16 +39,17 @@ experience:
   - title: Visiting Scholar
     company: LSU AgCenter
     company_url: 'https://lsuagcenter.com/'
-    company_logo: org-x
+    company_logo: LSU_logo
     location: Baton Rouge, Louisiana
     date_start: '2018-09-03'
     date_end: '2018-12-21'
     description: |2-
-        Responsibilities include:
+        Responsibilities included:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Conducted field, greenhouse, and laboratory research in integrated pest management, plant-insect interactions, and pesticide efficacy in sugarcane and rice agroecosystems.
+        * Examined potential chemical controls for invasive apple snails in rice and crawfish systems.
+        * Collected biological data: insect counts, insect identification, insect damage, yield, insect mortality, insect egg-laying behaviors, behavioral choice.
+        * Assisted in maintaining laboratory insect colonies in the Department of Entomology LSU.
 design:
   columns: '2'
 ---
