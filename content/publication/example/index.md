@@ -1,79 +1,74 @@
 ---
-title: "An example conference paper"
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
-# and it will be replaced with their full name and linked to their profile.
-authors:
-- admin
-- Robert Ford
-
-# Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-
-date: "2013-07-01T00:00:00Z"
-doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
-featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ""
-  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
+abstract: "The sugarcane borer, Diatraea saccharalis (Lepidoptera: Crambidae),
+  is the primary pest of sugarcane, Saccharum spp., in much of North and South
+  America. Control of D. saccharalis can be obtained through judicious
+  application of insecticides, but more research is needed to optimize chemical
+  control strategies. A series of field trials evaluated the duration of
+  protection and influence of application water volume on D. saccharalis control
+  in Louisiana sugarcane from 2018 to 2020. Results across trials demonstrated
+  superior control was achieved with chlorantraniliprole over novaluron and
+  tebufenozide. Analysis of insecticide concentrations present in leaf sheath
+  tissue of the target internode suggests chlorantraniliprole and novaluron are
+  achieving systemic activity, but not tebufenozide. Chlorantraniliprole
+  concentrations remained above lethal levels for more than 8 wk after
+  application. The percentage of bored internodes was 1.3- and 1.9-fold greater
+  following applications with a water volume of 18.7 L/ha relative to those made
+  with 46.7 and 186.8 L/ha, respectively, across insecticides. Collectively,
+  results suggest chlorantraniliprole applied early in the season with
+  sufficient water volume can provide nearly season-long protection of sugarcane
+  against D. saccharalis injury."
 slides: example
+url_pdf: ""
+publication_types:
+  - "1"
+authors:
+  - Blake E. Wilson
+  - Leonardo D. Salgado
+  - James M. Villegas
+author_notes:
+  - Conceptualization Methodology Investigation Formal analysis Writing original
+    draft
+  - Methodology Investigation Review and editing
+  - Methodology Investigation Review and editing
+publication: In *Crop Protection*
+summary: >-
+  Highlights
+
+  • Chlorantraniliprole and novaluron are systemic in sugarcane.
+
+  • Chlorantraniliprole provides up to eight weeks of protection from Diatraea saccharalis injury in sugarcane.
+
+  • Efficacy of insecticide applications in sugarcane is reduced at low water volumes.
+url_dataset: ""
+url_project: ""
+publication_short: In *CRP*
+url_source: ""
+url_video: ""
+title: "Optimizing chemical control for Diatraea saccharalis (Lepidoptera:
+  Crambidae) in sugarcane"
+doi: ""
+featured: true
+tags:
+  - Chlorantraniliprole
+  - Novaluron
+  - Tebufenozide
+  - Sugarcane borer
+  - Residual insecticide
+  - Systemic activity
+categories:
+  - Sugarcane
+projects:
+  - SugarcaneIPM
+image:
+  caption: ""
+  focal_point: smart
+  preview_only: false
+  filename: boredinternodes.jpg
+date: 2013-07-01T00:00:00Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: ""
 ---
 
 {{% callout note %}}
