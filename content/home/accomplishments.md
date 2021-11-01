@@ -40,12 +40,12 @@ item:
   title: Blockchain Fundamentals
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 - certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  date_end: "2019-06-03"
+  date_start: "2021-05-30"
+  description: "The Louisiana Division of the American Society of Sugar Cane Technologists sponsors an endowed graduate student fellowship to provide support to a full-time graduate student at LSU pursuing an M.S. or Ph.D. in an area related to sugarcane production or sugar manufacturing. Students must have a minimum grade point average of 3.0."
+  organization: American Society of Sugarcane Technologists
+  organization_url: http://www.assct.org/
+  title: 'Fellowship Award (2 academic years awarded)'
   url: ""
 
 design:
