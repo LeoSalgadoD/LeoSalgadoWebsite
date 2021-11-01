@@ -23,6 +23,18 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Graduate Research Assistant
+    company: Department of Entomology, Cornell University
+    company_url: 'https://entomology.cals.cornell.edu/'
+    company_logo: 
+    location: Geneva, New York
+    date_start: '2021-07-21'
+    date_end: ''
+    description: |2-
+        Responsibilities included:
+        
+        * Applied insect ecology, insecticide resistance management, population structure, and phylogenetic analysis of onion insects pests from different geographic regions under the supervision of Dr. Brian Nault
+       
+  - title: Graduate Research Assistant
     company: Department of Entomology, LSU
     company_url: 'https://www.lsu.edu/entomology/'
     company_logo: LSU_logo
@@ -32,10 +44,13 @@ experience:
     description: |2-
         Responsibilities included:
         
-        * Conduct field, greenhouse, and laboratory research in integrated pest management, plant-insect interactions, and pesticide efficacy in sugarcane and rice agroecosystems.
-        * Examine potential chemical controls for invasive apple snails in rice and crawfish systems.
-        * Collect biological data: insect counts, insect identification, insect damage, yield, insect mortality, insect egg-laying behaviors, behavioral choice.
-        * Maintaining laboratory insect colonies in the Department of Entomology LSU.
+        * Ecology and Management of Field Crops Insects
+        * Conducted and coordinated 6 field research trials, 2 diet incorporation assays in the laboratory, and 4 greenhouse experiments to evaluate larval establishment, oviposition preference, and insect development with research team.
+        * Conducted and coordinated 4 field research trials to evaluate the effect of the volume, timing, and efficacy of insecticide applications.
+        * Participated in research site preparation and maintenance: planting, weeding, pesticide mixing and application, and harvesting.
+        * Present research at scientific and commodity group conferences, publish extension and scientific articles
+        * Partnered with USDA personnel to conduct trials evaluating insects’ effect on yield reduction, nutrient influence, and varietal resistance.
+        * Supervised five student workers both on campus and at the sugarcane research station.
         
   - title: Visiting Scholar
     company: LSU AgCenter
