@@ -23,23 +23,23 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: 
   date_end: ""
-  date_start: "2021-01-25"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  date_start: "2020-08-25"
+  description: "This award is given to a full-time M.S. or Ph.D. student who exhibits excellence in academic achievement and has made satisfactory progress on his/her graduate degree program in the Department of Entomology at Louisiana State University. Preference is given to students with research in the area of integrated pest management."
+  organization: Department of Entomology, LSU
+  organization_url: https://www.lsu.edu/entomology/prospective/funding.php
+  title: David J. Boethel Scholarship Graduate Award 2020
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: 
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
+  date_start: "2021-06-01"
+  description: This award is given to outstanding individuals who exhibit excellence in academic achievement and graduate research in the Department of Entomology at Louisiana State University. One award is available for nominees in the M.S. program and one award for a Ph.D. candidate.
+  organization: Department of Entomology, LSU
   organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
+  title: L.D. Newsom Graduate Student Award in Entomology
+  url: https://www.lsu.edu/entomology/prospective/funding.php
+- certificate_url: 
   date_end: "2019-06-03"
   date_start: "2021-05-30"
   description: "The Louisiana Division of the American Society of Sugar Cane Technologists sponsors an endowed graduate student fellowship to provide support to a full-time graduate student at LSU pursuing an M.S. or Ph.D. in an area related to sugarcane production or sugar manufacturing. Students must have a minimum grade point average of 3.0."
