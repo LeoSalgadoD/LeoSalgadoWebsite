@@ -1,77 +1,51 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Leonardo "Leo" David Salgado
+role: Graduate Research Assistant
+avatar_filename: headshot_leonardosalgado.jpg
+bio: "My research interests include "
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-# Education to show in About widget
+  - Integrated Pest Management
+  - Applied Statistics
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=Q7Ifh8kAAAAJ
+    label: Google Scholar
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/leonardo-salgado/
+    label: LinkedIn
+  - display:
+      header: false
+    link: https://orcid.org/0000-0002-2520-0661
+    icon_pack: ai
+    icon: orcid
+    label: OrcID
+organizations:
+  - name: Cornell University
+    url: https://www.cornell.edu/
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Highlight the author in author lists? (true/false)
+    - course: PhD in Entomology
+      institution: Cornell University
+      year: 2023
+    - course: "MSc in Entomology Minor: Experimental Statistics"
+      institution: Louisiana State University
+      year: 2020
+    - course: Ingeniero Agrónomo (BSc in Agricultural Sciences)
+      institution: Universidad Nacional de Agricultura y Ganaderia
+      year: 2019
+email: leonardo.salgadod@gmail.com
+superuser: true
 highlight_name: true
 ---
+Leo graduated as Bachelor in Science in Agricultural Sciences (Ingeniero Agrónomo) from Universidad Nacional de Agricultura (UNA) in May 2019.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+He subsequently began his master’s degree in Entomology with a minor in Applied Statistics at Louisiana State University (LSU), graduating in August 2021. For his MS thesis, Leo worked in elucidating the mechanisms that confer resistance to sugarcane (*Saccharum* spp. L.) to the stem borers *Diatraea saccharalis* (F.) and *Eoreuma loftini* (Dyar) in a series of field, laboratory, and greenhouse experiments. In addition to his thesis project, he worked on projects related to the timing, volume, and efficacy of insecticide applications in sugarcane and rice (*Oryza sativa*). 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Leo joined the Department of Entomology of Cornell University to start his Ph.D. in Fall 2021, working in Applied insect ecology, insecticide resistance management, population structure, and phylogenetic analysis of onion insects pests from different geographic regions under the supervision of Dr. Brian Nault.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/LeonardoSalgado_CV_October2021.pdf" "newtab" >}}CV{{< /staticref >}}.
