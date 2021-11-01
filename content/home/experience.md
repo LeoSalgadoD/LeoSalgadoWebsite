@@ -40,7 +40,7 @@ experience:
   - title: Visiting Scholar
     company: LSU AgCenter
     company_url: 'https://lsuagcenter.com/'
-    company_logo: lsu-agcenter
+    company_logo: 
     location: Baton Rouge, Louisiana
     date_start: '2018-09-03'
     date_end: '2018-12-21'
