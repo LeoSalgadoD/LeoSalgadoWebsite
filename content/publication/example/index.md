@@ -46,7 +46,7 @@ url_source: ""
 url_video: ""
 title: "Optimizing chemical control for Diatraea saccharalis (Lepidoptera:
   Crambidae) in sugarcane"
-doi: https://doi.org/10.1016/j.cropro.2021.105843
+doi: 10.1016/j.cropro.2021.105843
 featured: true
 tags:
   - Chlorantraniliprole
@@ -64,9 +64,9 @@ image:
   focal_point: smart
   preview_only: false
   filename: featured.jpg
-date: 2013-07-01T00:00:00Z
+date: 2013-07-01T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
