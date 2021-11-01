@@ -17,10 +17,10 @@ abstract: "The sugarcane borer, Diatraea saccharalis (Lepidoptera: Crambidae),
   results suggest chlorantraniliprole applied early in the season with
   sufficient water volume can provide nearly season-long protection of sugarcane
   against D. saccharalis injury."
-slides: example
+slides: ""
 url_pdf: ""
 publication_types:
-  - "1"
+  - "2"
 authors:
   - Blake E. Wilson
   - Leonardo D. Salgado
@@ -41,12 +41,12 @@ summary: >-
   • Efficacy of insecticide applications in sugarcane is reduced at low water volumes.
 url_dataset: ""
 url_project: ""
-publication_short: In *CRP*
+publication_short: In *Crop Protection*
 url_source: ""
 url_video: ""
 title: "Optimizing chemical control for Diatraea saccharalis (Lepidoptera:
   Crambidae) in sugarcane"
-doi: ""
+doi: https://doi.org/10.1016/j.cropro.2021.105843
 featured: true
 tags:
   - Chlorantraniliprole
@@ -70,13 +70,6 @@ publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
 url_code: ""
 ---
-
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
