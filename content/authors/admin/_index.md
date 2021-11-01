@@ -1,8 +1,9 @@
 ---
 title: Leonardo "Leo" David Salgado
 role: Graduate Research Assistant
-avatar_filename: ""
-bio: "My research interests include "
+avatar_filename: avatar.png
+bio: "My research interests are focused on the ecology and management of insect
+  pests of crops. "
 interests:
   - Integrated Pest Management
   - Applied Statistics
