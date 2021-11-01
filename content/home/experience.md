@@ -25,7 +25,7 @@ experience:
   - title: Graduate Research Assistant
     company: Department of Entomology, Cornell University
     company_url: 'https://entomology.cals.cornell.edu/'
-    company_logo: 
+    company_logo: Cornell
     location: Geneva, New York
     date_start: '2021-07-21'
     date_end: ''
@@ -55,7 +55,7 @@ experience:
   - title: Visiting Scholar
     company: LSU AgCenter
     company_url: 'https://lsuagcenter.com/'
-    company_logo: 
+    company_logo: LSU_logo
     location: Baton Rouge, Louisiana
     date_start: '2018-09-03'
     date_end: '2018-12-21'
