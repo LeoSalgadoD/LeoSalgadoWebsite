@@ -27,8 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: SugarcaneIPM
+    tag: SugarcaneIPM
+  - name: OnionIPM
+    tag: OnionIPM
   - name: Other
     tag: Demo
 
