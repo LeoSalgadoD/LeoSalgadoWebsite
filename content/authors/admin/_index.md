@@ -33,7 +33,7 @@ education:
     - course: PhD in Entomology
       institution: Cornell University
       year: 2025
-    - course: "MSc in Entomology Minor: Experimental Statistics"
+    - course: "MSc in Entomology Minor: Applied Statistics"
       institution: Louisiana State University
       year: 2020
     - course: Ingeniero Agrónomo (BSc in Agricultural Sciences)
