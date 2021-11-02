@@ -42,8 +42,9 @@ tags:
   - Sugarcane borer
   - Residual insecticide
   - Systemic activity
+  - SugarcaneIPM
 categories:
-  - Sugarcane
+  - SugarcaneIPM
 projects:
   - SugarcaneIPM
 image:
