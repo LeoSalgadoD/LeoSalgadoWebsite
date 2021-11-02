@@ -2,14 +2,17 @@
 title: "Plutella xylostella, Diamondback moth (Lepidoptera: Plutellidae)"
 subtitle: "Bug Biz Pest Management and Identification Series: Publication ID 3785."
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Leonardo D. Salgado
   - Thomas E. Reagan
   - Forest Huval
   - Christopher E. Carlton
+publication: LSU AgCenter BugBiz
 draft: false
 featured: false
+tags:
+  - Others
 image:
   filename: featured
   focal_point: Smart
