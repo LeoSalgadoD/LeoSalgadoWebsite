@@ -31,8 +31,8 @@ content:
     tag: SugarcaneIPM
   - name: OnionIPM
     tag: OnionIPM
-  - name: Other
-    tag: Other
+  - name: Others
+    tag: Others
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
