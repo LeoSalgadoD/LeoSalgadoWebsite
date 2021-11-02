@@ -5,7 +5,7 @@ summary: ""
 draft: false
 featured: false
 categories:
-  - Others
+  - Other
 image:
   filename: featured.png
   focal_point: Smart
