@@ -3,7 +3,7 @@ title: "Citrus leafminer, Phyllocnistis citrella (Lepidoptera: Gracillariidae)"
 subtitle: "Bug Biz Pest Management and Identification Series: LSU AgCenter.
   Publication ID 3784."
 publication_types:
-  - "2"
+  - "0"
 authors:
   - Leonardo D. Salgado
   - Thomas E. Reagan
