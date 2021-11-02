@@ -1,6 +1,6 @@
 ---
 title: "Diaphania nitidalis and Diaphania hyalinata, Pickleworm and Melonworm
-  Moths (Lepidoptera: Crambidae). "
+  Moths (Lepidoptera: Crambidae)"
 subtitle: "Bug Biz Pest Management and Identification Series: LSU AgCenter.
   Publication ID 3781."
 publication_types:
