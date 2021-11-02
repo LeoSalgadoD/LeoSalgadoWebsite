@@ -50,6 +50,6 @@ Leo graduated as Bachelor of Science in Agricultural Sciences (Ingeniero Agróno
 
 He subsequently began his master’s degree in Entomology with a minor in Applied Statistics at Louisiana State University (LSU), graduating in August 2021. For his MS thesis, Leo worked in elucidating the mechanisms that confer resistance to sugarcane (*Saccharum* spp. L.) to the stem borers *Diatraea saccharalis* (F.) and *Eoreuma loftini* (Dyar) in a series of field, laboratory, and greenhouse experiments. In addition to his thesis project, he worked on projects related to the timing, volume, and efficacy of insecticide applications in sugarcane and rice (*Oryza sativa*). 
 
-Leo joined the Department of Entomology of Cornell University to start his Ph.D. in Fall 2021, working in Applied insect ecology, insecticide resistance management, population structure, and phylogenetic analysis of onion insects pests from different geographic regions under the supervision of Dr. Brian Nault.
+Leo joined the Department of Entomology of Cornell University to start his Ph.D. in Fall 2021, working in applied insect ecology, insecticide resistance management, population structure, and phylogenetic analysis of onion insects pests from different geographic regions under the supervision of Dr. Brian Nault.
 
 {{< icon name="download" pack="fas" >}} Download his {{< staticref "uploads/LeonardoSalgado_CV_October2021.pdf" "newtab" >}}CV{{< /staticref >}}.
