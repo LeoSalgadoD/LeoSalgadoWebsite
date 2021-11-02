@@ -4,6 +4,8 @@ date: 2021-11-02T02:01:44.552Z
 summary: ""
 draft: false
 featured: false
+tags:
+  - Other
 categories:
   - Other
 image:
