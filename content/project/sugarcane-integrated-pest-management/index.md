@@ -1,6 +1,6 @@
 ---
 title: Sugarcane Integrated Pest Management
-date: 2021-11-01T20:47:40.953Z
+date: 2020-06-03T20:47:40.953Z
 draft: false
 featured: false
 tags:
