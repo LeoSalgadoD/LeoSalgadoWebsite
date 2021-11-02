@@ -3,6 +3,10 @@ title: Onion Maggot Management and Resistance
 date: 2021-11-01T21:02:55.496Z
 draft: false
 featured: false
+tags:
+  - OnionIPM
+categories:
+  - OnionIPM
 image:
   filename: featured.jpg
   focal_point: Smart
