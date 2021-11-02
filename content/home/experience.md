@@ -26,7 +26,7 @@ experience:
     company: Department of Entomology, Cornell University
     company_url: 'https://entomology.cals.cornell.edu/'
     company_logo: Cornell
-    location: Geneva, New York
+    location: Geneva, New York, USA
     date_start: '2021-07-21'
     date_end: ''
     description: |2-
@@ -35,7 +35,7 @@ experience:
         * Applied insect ecology, insecticide resistance management, population structure, and phylogenetic analysis of onion insects pests from different geographic regions under the supervision of Dr. Brian Nault
        
   - title: Graduate Research Assistant
-    company: Department of Entomology, LSU
+    company: Department of Entomology, LSU, USA
     company_url: 'https://www.lsu.edu/entomology/'
     company_logo: LSU_logo
     location: Baton Rouge, Louisiana
@@ -56,7 +56,7 @@ experience:
     company: LSU AgCenter
     company_url: 'https://lsuagcenter.com/'
     company_logo: LSU_logo
-    location: Baton Rouge, Louisiana
+    location: Baton Rouge, Louisiana, USA
     date_start: '2018-09-03'
     date_end: '2018-12-21'
     description: |2-
@@ -66,6 +66,21 @@ experience:
         * Examine potential chemical controls for invasive apple snails in rice and crawfish systems.
         * Collect biological data: insect counts, insect identification, insect damage, yield, insect mortality, insect egg-laying behaviors, behavioral choice.
         * Maintaining laboratory insect colonies in the Department of Entomology LSU.
+
+  - title: Student
+    company: Universidad Nacional de Agricultura y Ganaderia
+    company_url: 'https://portal.unag.edu.hn/'
+    company_logo: UNAG
+    location: Catacamas, Olancho, Honduras
+    date_start: '2015-01-30'
+    date_end: '2019-05-30'
+    description: |2-
+        Responsibilities included:
+        
+        * Worked in a bioassay for estimation of median lethal doses (LD50) of the entomopathogenic fungi Beauveria bassiana and Metarhizium anisopliae via probit analysis, against the banana root borer (Cosmopolites sordidus).
+        * Supervised and realized all steps of crop production (plantain, tomatoes, bell pepper, cabbage, coffee, and sugarcane), including planting, pest control, fertilizing, harvesting, design of drip irrigation systems, and commercialization.
+        * Co-organizer of the First International Congress of Plant Physiology, Mineral Nutrition, and Plant Protection. Catacamas, Honduras. 
+        * Organized extension talks to Honduran Farmers on Good Agricultural Practices (GAP).
 design:
   columns: '2'
 ---
