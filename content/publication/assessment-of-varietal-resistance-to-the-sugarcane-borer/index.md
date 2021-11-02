@@ -29,6 +29,10 @@ abstract: >
   of cultivar releases and cultivar-specific SCB management tactics. 
 draft: false
 featured: false
+tags:
+  - SugarcaneIPM
+categories:
+  - SugarcaneIPM
 image:
   filename: ""
   focal_point: Smart
