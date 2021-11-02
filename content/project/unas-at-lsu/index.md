@@ -5,9 +5,9 @@ summary: ""
 draft: false
 featured: false
 tags:
-  - Other
+  - Others
 categories:
-  - Other
+  - Others
 image:
   filename: featured.png
   focal_point: Smart
