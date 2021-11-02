@@ -21,10 +21,13 @@ feature:
   icon_pack: fas
   name: Entomology
 - description: 
-  icon: chart-scatter
+  icon: chart-bar
   icon_pack: fas
   name: Experimental Design
-
+- description: 
+  icon: handshake
+  icon_pack: fas
+  name: Leadership
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
