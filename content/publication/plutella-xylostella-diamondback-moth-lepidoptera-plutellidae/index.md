@@ -1,5 +1,5 @@
 ---
-title: "*Plutella xylostella*, Diamondback moth (Lepidoptera: Plutellidae)"
+title: "Plutella xylostella, Diamondback moth (Lepidoptera: Plutellidae)"
 subtitle: "Bug Biz Pest Management and Identification Series: Publication ID 3785."
 publication_types:
   - "2"
