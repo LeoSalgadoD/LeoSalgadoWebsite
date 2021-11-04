@@ -1,5 +1,5 @@
 ---
-title: "Spodoptera frugiperda, Fall armyworm (Lepidoptera: Noctuidae)"
+title: "*Spodoptera frugiperda*, Fall armyworm (Lepidoptera: Noctuidae)"
 subtitle: "Bug Biz Pest Management and Identification Series: LSU AgCenter.
   Publication ID 3786."
 publication_types:
