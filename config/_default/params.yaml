@@ -32,7 +32,7 @@ address:
 coordinates:
   latitude: '-77.0058'
   longitude: '42.8753'
-directions: 526 Barton Lab, 15 Castle Creek Drive
+directions: 526 Barton Lab
 
 # Site header
 
@@ -126,7 +126,7 @@ map:
 marketing:
   google_analytics: ''
   google_tag_manager: ''
-  google_site_verification: ''
+  google_site_verification: '38zJWJ3LHwISiONZQnVWjhs1dX7TzS-8r1oe7h-ueCU'
   baidu_site_verification: ''
   baidu_tongji: ''
 cms:
