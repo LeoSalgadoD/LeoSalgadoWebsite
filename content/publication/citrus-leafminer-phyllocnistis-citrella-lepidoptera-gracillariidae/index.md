@@ -1,5 +1,5 @@
 ---
-title: "Citrus leafminer, Phyllocnistis citrella (Lepidoptera: Gracillariidae)"
+title: "Citrus leafminer, *Phyllocnistis citrella* (Lepidoptera: Gracillariidae)"
 subtitle: "Bug Biz Pest Management and Identification Series: LSU AgCenter.
   Publication ID 3784."
 publication_types:
