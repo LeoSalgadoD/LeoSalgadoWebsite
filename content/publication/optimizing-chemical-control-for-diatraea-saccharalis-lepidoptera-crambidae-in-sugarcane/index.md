@@ -1,5 +1,5 @@
 ---
-title: "Optimizing chemical control for Diatraea saccharalis (Lepidoptera:
+title: "Optimizing chemical control for *Diatraea saccharalis* (Lepidoptera:
   Crambidae) in sugarcane"
 publication_types:
   - "2"
