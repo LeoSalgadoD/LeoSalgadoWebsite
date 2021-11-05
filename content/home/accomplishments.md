@@ -26,6 +26,14 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: "2020-08-25"
+  description: "The Field of Entomology is awarded Recruitment Fellowships each year, available to incoming Ph.D. students only. After recruitment weekend, or another format of interview, the Director of Graduate Studies and the Admissions Committee rank all interviewing applicants, and the Fellowships are offered to the top recruits. "
+  organization: Department of Entomology, Cornell University
+  organization_url: https://entomology.cals.cornell.edu/
+  title: Cornell University College of Agriculture & Life Sciences Field of Entomology Recruitment Fellowship Fall 2021.
+  url: ""
+- certificate_url: 
+  date_end: ""
+  date_start: "2020-08-25"
   description: "This award is given to a full-time M.S. or Ph.D. student who exhibits excellence in academic achievement and has made satisfactory progress on his/her graduate degree program in the Department of Entomology at Louisiana State University. Preference is given to students with research in the area of integrated pest management."
   organization: Department of Entomology, LSU
   organization_url: https://www.lsu.edu/entomology/prospective/funding.php
