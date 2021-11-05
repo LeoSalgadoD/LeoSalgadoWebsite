@@ -28,7 +28,7 @@ item:
   date_start: "2021-08-24"
   description: "The Field of Entomology is awarded Recruitment Fellowships each year, available to incoming Ph.D. students only. After recruitment weekend, or another format of interview, the Director of Graduate Studies and the Admissions Committee rank all interviewing applicants, and the Fellowships are offered to the top recruits. "
   organization: Department of Entomology, Cornell University
-  organization_url: https://entomology.cals.cornell.edu/
+  organization_url: https://entomology.cals.cornell.edu/graduate/financial-support/
   title: Cornell University College of Agriculture & Life Sciences Field of Entomology Recruitment Fellowship Fall 2021.
   url: ""
 - certificate_url: 
