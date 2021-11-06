@@ -11,7 +11,7 @@ categories:
 links:
   - url: https://www.facebook.com/unasatlsu
     name: Facebook Page
-    icon_pack: far
+    icon_pack: fab
     icon: facebook
 image:
   filename: featured.png
