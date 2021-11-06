@@ -13,6 +13,8 @@ links:
     name: Facebook Page
     icon_pack: fab
     icon: facebook
+  - url: https://lsu.campuslabs.com/engage/organization/unas_at_lsu_association
+    name: LSU Campus Website
 image:
   filename: featured.png
   focal_point: Smart
