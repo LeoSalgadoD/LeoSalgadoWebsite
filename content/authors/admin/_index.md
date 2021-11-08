@@ -28,6 +28,12 @@ social:
     icon_pack: ai
     icon: orcid
     label: OrcID
+  - display:
+      header: false
+    link: https://www.researchgate.net/profile/Leonardo-Salgado-5
+    icon_pack: ai
+    icon: researchgate
+    label: ResearchGate
 organizations:
   - name: Cornell University
     url: https://www.cornell.edu/
