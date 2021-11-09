@@ -52,7 +52,7 @@ email: leonardo.salgadod@gmail.com
 superuser: true
 highlight_name: true
 ---
-Leo graduated as Bachelor of Science in Agricultural Sciences (Ingeniero Agrónomo) from Universidad Nacional de Agricultura (UNA) in May 2019.
+Leo graduated as Bachelor of Science in Agricultural Sciences (Ingeniero Agrónomo) from Universidad Nacional de Agricultura (UNAG), Honduras in May 2019.
 
 He subsequently began his master’s degree in Entomology with a minor in Applied Statistics at Louisiana State University (LSU), graduating in August 2021. For his MS thesis, Leo worked in elucidating the mechanisms that confer resistance to sugarcane (*Saccharum* spp. L.) to the stem borers *Diatraea saccharalis* (F.) and *Eoreuma loftini* (Dyar) in a series of field, laboratory, and greenhouse experiments. In addition to his thesis project, he worked on projects related to the timing, volume, and efficacy of insecticide applications in sugarcane and rice (*Oryza sativa*). 
 
