@@ -1,6 +1,6 @@
 ---
 title: "Frankliniella occidentalis, Western Flower Thrips (Thysanoptera: Thripidae). "
-subtitle: "Bug Biz Pest Management and Identification Series: "
+subtitle: "Bug Biz Pest Management and Identification Series: Publication ID 3814. "
 publication_types:
   - "0"
 authors:
