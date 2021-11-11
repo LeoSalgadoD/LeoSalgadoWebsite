@@ -1,6 +1,6 @@
 ---
 title: "Bemisia tabaci Middle East Asia Minor 1 (MEAM1) species, Silverleaf
-  whitefly (Hemiptera: Aleyrodidae). "
+  whitefly (Hemiptera: Aleyrodidae)"
 subtitle: "Bug Biz Pest Management and Identification Series: LSU AgCenter
   Publication ID 3806. "
 publication_types:
