@@ -6,11 +6,10 @@ subtitle: "Bug Biz Pest Management and Identification Series: LSU AgCenter
 publication_types:
   - "0"
 authors:
-  - Salgado
-  - L. D.
-  - K. D. Rodriguez
-  - F. Huval
-  - and C. E. Carlton.
+  - Leonardo D. Salgado
+  - Kensy D. Rodriguez
+  - Forest Huval
+  - and Christopher E. Carlton.
 publication: LSU AgCenter BugBiz
 draft: false
 featured: false
