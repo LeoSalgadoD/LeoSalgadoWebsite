@@ -58,4 +58,4 @@ He subsequently began his master’s degree in Entomology with a minor in Applie
 
 Leo joined the Department of Entomology of Cornell University to start his Ph.D. in Fall 2021, working in applied insect ecology, insecticide resistance management, population structure, and phylogenetic analysis of onion insects pests from different geographic regions under the supervision of Dr. Brian Nault.
 
-{{< icon name="download" pack="fas" >}} Download his {{< staticref "uploads/LeonardoSalgado_CV_November2021.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download his {{< staticref "uploads/LeonardoSalgado_CV_February2022.pdf" "newtab" >}}CV{{< /staticref >}}.
