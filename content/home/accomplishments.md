@@ -23,12 +23,12 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: 
+- certificate_url: https://www.entsoc.org/membership/branches/southeastern/awards/southeastern/kirby-hays-award
   date_end: ""
   date_start: "2022-02-04"
   description: "The Kirby L. Hays Memorial Award is sponsored by ESA-SEB. One award is given each year to an outstanding M.S. student. The recipient is recognized with a $200 cash award and a plaque at the annual Branch meeting."
   organization: Southeastern Branch, Entomological Society of America
-  organization_url: https://www.entsoc.org/membership/branches/southeastern/awards/southeastern/kirby-hays-award
+  organization_url: https://www.entsoc.org/membership/branches/southeastern/
   title: Kirby L. Hays Memorial Award, Southeastern Branch, Entomological Society of America 2022
   url: ""
 - certificate_url: 
