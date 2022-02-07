@@ -25,6 +25,14 @@ date_format: Jan 2006
 item:
 - certificate_url: 
   date_end: ""
+  date_start: "2022-02-04"
+  description: "The Kirby L. Hays Memorial Award is sponsored by ESA-SEB. One award is given each year to an outstanding M.S. student. The recipient is recognized with a $200 cash award and a plaque at the annual Branch meeting."
+  organization: Southeastern Branch, Entomological Society of America
+  organization_url: https://www.entsoc.org/membership/branches/southeastern/awards/southeastern/kirby-hays-award
+  title: Kirby L. Hays Memorial Award, Southeastern Branch, Entomological Society of America 2022
+  url: ""
+- certificate_url: 
+  date_end: ""
   date_start: "2021-08-24"
   description: "The Field of Entomology is awarded Recruitment Fellowships each year, available to incoming Ph.D. students only. After recruitment weekend, or another format of interview, the Director of Graduate Studies and the Admissions Committee rank all interviewing applicants, and the Fellowships are offered to the top recruits. "
   organization: Department of Entomology, Cornell University
