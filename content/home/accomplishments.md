@@ -30,7 +30,7 @@ item:
   organization: Southeastern Branch, Entomological Society of America
   organization_url: https://www.entsoc.org/membership/branches/southeastern/
   title: Kirby L. Hays Memorial Award, Southeastern Branch, Entomological Society of America 2022
-  url: "https://www.entsoc.org/membership/branches/southeastern/awards/southeastern/kirby-hays-award"
+  url: "https://www.entsoc.org/southeastern/kirby-hays-award-winners"
 - certificate_url: 
   date_end: ""
   date_start: "2021-08-24"
