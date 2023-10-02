@@ -1,7 +1,7 @@
 ---
 title: Leonardo "Leo" David Salgado
 role: Graduate Research Assistant
-avatar_filename: avatar.png
+avatar_filename: image-1-.jpeg
 bio: "My research interests are focused on the ecology and management of insect
   pests of crops. "
 interests:
@@ -52,10 +52,12 @@ email: leonardo.salgadod@gmail.com
 superuser: true
 highlight_name: true
 ---
-Leo graduated as Bachelor of Science in Agricultural Sciences (Ingeniero Agrónomo) from Universidad Nacional de Agricultura (UNAG), Honduras in May 2019.
+Leonardo "Leo" David Salgado was born in Honduras, Central America. He got his bachelor's degree in Agricultural Sciences at Universidad Nacional de Agricultura (UNAG), which led him to an internship working on sugarcane and rice integrated pest management under the supervision of Dr. Blake Wilson at Louisiana State University (LSU). After graduating, Leo joined the Wilson Lab to pursue a master's degree in Entomology with a minor in applied statistics. While at LSU, Leo was the president and a founding member of "UNAs at LSU," which is a student association that connects UNAG students and graduates with LSU AgCenter faculty members to gain international experience in agricultural research. Leo and his colleagues successfully connected ten Honduran students with LSU faculty, and six students started graduate programs at LSU. 
 
-He subsequently began his master’s degree in Entomology with a minor in Applied Statistics at Louisiana State University (LSU), graduating in August 2021. For his MS thesis, Leo worked in elucidating the mechanisms that confer resistance to sugarcane (*Saccharum* spp. L.) to the stem borers *Diatraea saccharalis* (F.) and *Eoreuma loftini* (Dyar) in a series of field, laboratory, and greenhouse experiments. In addition to his thesis project, he worked on projects related to the timing, volume, and efficacy of insecticide applications in sugarcane and rice (*Oryza sativa*). 
 
-Leo joined the Department of Entomology of Cornell University to start his Ph.D. in Fall 2021, working in applied insect ecology, insecticide resistance management, population structure, and phylogenetic analysis of onion insects pests from different geographic regions under the supervision of Dr. Brian Nault.
+Currently, Leo is a Ph.D. student in the Department of Entomology at Cornell University under the direction of Dr. Brian Nault. Leo's projects involve: 1) determining the onion maggot and seedcorn maggot composition early in the season when onions are most vulnerable to maggot attack across multiple onion production regions, 2) comparing the efficacy of various insecticide seed treatments of onions in the field, 3) assessing onion maggot susceptibility to seed treatment insecticide active ingredients by laboratory bioassays, and 4) determining the genetic structure of maggot species in onion fields from production regions that differ in size and investigating if resistance to insecticides in maggot populations could be influenced by geography and/or size of production area. 
+
+
+Leo has been an active member of the Entomological Society of America since the beginning of his graduate studies in the US. He has presented his research in branch and national meetings, organized a mini workshop, and participated in the EntoMentos program. He is also the recipient of the Kirby Hays M.S. Student Award from the Southeastern Branch of ESA in 2022. Leo would like to thank ESA and Corteva for being selected for this award in applied entomology. In the future, Leo sees himself in a career that involves working for farmers and other stakeholders to solve agricultural pest problems, and he believes obtaining a doctorate degree will significantly move him in the right direction to achieve his dreams and fulfill scientific curiosity while providing him with the knowledge to do his part in improving the sustainability of agriculture.
 
 {{< icon name="download" pack="fas" >}} Download his {{< staticref "uploads/LeonardoSalgado_CV_February2023.pdf" "newtab" >}}CV{{< /staticref >}}.
