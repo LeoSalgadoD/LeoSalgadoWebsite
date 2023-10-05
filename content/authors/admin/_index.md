@@ -7,9 +7,9 @@ bio: "My research interests are focused on the ecology and management of insect
 interests:
   - Integrated Pest Management
   - Insect Ecology
-  - Applied Statistics
-  - Host-Plant Resistance
   - Insecticide Resistance Management
+  - Population Genetics
+  - Applied Statistics
 social:
   - icon: envelope
     icon_pack: fas
